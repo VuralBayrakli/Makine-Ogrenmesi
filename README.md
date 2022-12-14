@@ -37,6 +37,7 @@ Sonuç olarak pazar sepeti analizi , tüm kuruluşların ürünler arasındaki i
 
 
 Pazar Sepeti Analizi Faydaları	
+
 1.Mağaza Düzeni(Store Layout)
 Perakendecilik, rekabetin yüksek olduğu bir sektördür. Müşterilerin ihtiyaçlarının ve gereksinimlerinin ne olduğunun nasıl farkında olabileceğine bağlı olan müşteri odaklı bir endüstridir. Süpermarketlerde en çok kullanılan tekniklerden biri, karışık mallardır. Pazar sepeti analizi kullanılarak karma mallarda gruplandırılan ilişkili ürünler belirlenmektedir.
 Ürünler arasındaki bu ilişki daha sonra ürünün süpermarketteki tasarım düzeninde uygulanır. Birlikte satın alınan ilgili ürünlerin tek bir işlemde belirlenmesi işlemi veri madenciliği tekniği kullanılarak yapılmaktadır. Veri madenciliği sürecinde yöntem olarak Apriori algoritması seçilmiştir. WEKA (Waikato Environment for Knowledge Analysis) yazılımı kullanılarak ürünler arasındaki birliktelik kuralı hesaplanır. Sonuçlar, beş kategori ilişkilendirme kuralı ve on dört alt kategori ilişkilendirme kuralı bulunur. Bu çağrışımlar daha sonra güven ve destek olarak yorumlanarak ürün düzeni için dikkate alınır.
